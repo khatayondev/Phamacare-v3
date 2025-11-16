@@ -1,7 +1,7 @@
 
   # Pharmacy Management Dashboard
 
-  This is a code bundle for Pharmacy Management Dashboard. The original project is available at https://www.figma.com/design/hvN8G6aO3nYLVCXjKN3Tza/Pharmacy-Management-Dashboard.
+  The original project priveiw is available at https://mute-forum-75360604.figma.site
 
   ## Running the code
 
